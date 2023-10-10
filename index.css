@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+}
+.bg-container{
+    font-family:"Arial";
+    font-size:20px;
+}
+.header-section{
+    background-color:rgb(76, 243, 68);
+    height:20vh;
+    background-size:cover;
+    padding-left:10px;
+}
+.center-section{
+    display:grid;
+    grid-template-columns:54% 23% auto;
+    height:60vh;
+}
+.article-section{
+    background-color:rgb(254, 249, 249);
+    padding-left:10px;
+    
+}
+.aside-section{
+    background-color:rgb(228, 246, 202);
+    padding-left:10px;    
+}
+.nav-section{
+    background-color: rgb(191, 228, 216);
+    padding-left:10px;
+}
+.footer-section{
+    background-color:rgb(76, 243, 68);
+    padding-left:10px;
+    height:20vh;
+    background-size:cover;
+}
